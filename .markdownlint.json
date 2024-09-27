@@ -1,0 +1,13 @@
+{
+    "MD007": false,
+    "MD013": false,
+    "MD029": {
+        "style": "ordered"
+    },
+    "MD030": {
+        "ol_multi": 2,
+        "ol_single": 2,
+        "ul_multi": 3,
+        "ul_single": 3
+    }
+}
